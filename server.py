@@ -8,7 +8,7 @@ class Server:
         server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
         server.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
         server.bind((ip,port))
-        server.listen(0)
+        server.listen()
         print("[+] waiting for incoming connectins")
         self.connection,self.address = server.accept()
         print("[+] we have a connection from "+ str(self.address))
