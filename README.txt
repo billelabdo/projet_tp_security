@@ -4,7 +4,7 @@ ona 2 fichier:
 server.py et client.py
 ona utilse les socket pour faire la connection entre le administrateur et le client
 ona utiliser le python 3
-comment fonction les 2 programme:\n
+le fonctionment les 2 programme:
 1)- server.py:
 ona cree une class qui s'appelle Server()
 donc on  cree une instance de cette class :
