@@ -1,4 +1,4 @@
-# ce code on execute dans la machine client.
+# ce code on exécuté dans la machine de client.
 import socket
 import subprocess
 import platform
