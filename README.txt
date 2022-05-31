@@ -22,4 +22,9 @@ backdoor = Backdoor_final(ip_de_server,port_de_communication)
 backdoor.run()
 
 
+dans le menu si tu choise 3 if veut dis:
+give me subnet mask of target network:
+la reponse par exemple 24 
+
+
 
